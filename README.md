@@ -5,8 +5,6 @@ Aqui estão concentradas as práticas que reforçam lógica de programação, es
 
 ## 📌 Conteúdo
 - Exercícios práticos
-- Projetos acadêmicos
-- Testes de lógica e automação
 
 ## 🚀 Objetivo
 Demonstrar **evolução técnica e consistência** no aprendizado de Python, consolidando este espaço como um portfólio de referência.
