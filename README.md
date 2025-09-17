@@ -16,7 +16,6 @@ Demonstrar **evolução técnica e consistência** no aprendizado de Python, con
 
 ## 👤 Autor
 - **Vinicius Oliveira Silva**  
-- [LinkedIn](www.linkedin.com/in/viniciusoliveira1s) | [GitHub](https://github.com/viniols1)
 
 ---
 💡 *Repositório mantido com disciplina, foco e visão estratégica.*
